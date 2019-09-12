@@ -14,7 +14,7 @@ yum-config-manager \
     https://download.docker.com/linux/centos/docker-ce.repo
     
     
-yum install docker-ce docker-ce-cli containerd.io
+yum install -y docker-ce docker-ce-cli containerd.io
     
     
   
